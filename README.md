@@ -13,3 +13,11 @@ This project is Directly Inspired from the Overlay created by https://github.com
 5. execute the MHFZ_Overlay.exe
 
 Top Left are Buttons for Config, Restart, Close
+
+## TODO
+
+- Choose which Player to load data from
+- Auto Detect which Player is Playing
+- Selecting Monsters for Body Parts and Monster Status
+- Body Parts Infos
+- Fix Max HP for Road
