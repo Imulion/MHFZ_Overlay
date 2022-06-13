@@ -1,0 +1,81 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="mhf_display_new" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="EnableDamageNumbers" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="IsRoadOverride" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="AlwaysShowMonsterInfo" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Monster1BarColor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#4CD60000</Value>
+    </Setting>
+    <Setting Name="Monster2BarColor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#4CD60000</Value>
+    </Setting>
+    <Setting Name="Monster3BarColor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#4CD60000</Value>
+    </Setting>
+    <Setting Name="Monster4BarColor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#4CD60000</Value>
+    </Setting>
+    <Setting Name="MonsterPoisonBarColor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#4C9000D6</Value>
+    </Setting>
+    <Setting Name="MonsterBlastBarColor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#4CD6A500</Value>
+    </Setting>
+    <Setting Name="MonsterSleepBarColor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#4C00D1D6</Value>
+    </Setting>
+    <Setting Name="MonsterParaBarColor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#4CD4D600</Value>
+    </Setting>
+    <Setting Name="MonsterStunBarColor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#4C777772</Value>
+    </Setting>
+    <Setting Name="BackGroundColor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#7F323232</Value>
+    </Setting>
+    <Setting Name="ForeGroundColor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#7F323232</Value>
+    </Setting>
+    <Setting Name="TextColor" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#7FFFFFFF</Value>
+    </Setting>
+    <Setting Name="HealthBarsX" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">1418</Value>
+    </Setting>
+    <Setting Name="HealthBarsY" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">42</Value>
+    </Setting>
+    <Setting Name="HealthBarsShown" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="PlayerInfoX" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">38</Value>
+    </Setting>
+    <Setting Name="PlayerInfoY" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">269</Value>
+    </Setting>
+    <Setting Name="PlayerInfoShown" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="MonsterStatusInfoX" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">1589</Value>
+    </Setting>
+    <Setting Name="MonsterStatusInfoY" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">573</Value>
+    </Setting>
+    <Setting Name="MonsterStatusInfoShown" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="FontSize" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">24</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
