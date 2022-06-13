@@ -21,3 +21,4 @@ Top Left are Buttons for Config, Restart, Close
 - Selecting Monsters for Body Parts and Monster Status
 - Body Parts Infos
 - Fix Max HP for Road
+- Better Detection for if the Player is in Road so the Road Override is not necesarry anymore
