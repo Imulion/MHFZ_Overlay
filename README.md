@@ -14,6 +14,12 @@ This project is Directly Inspired from the Overlay created by https://github.com
 
 Top Left are Buttons for Config, Restart, Close
 
+## Common / Known issues
+
+- Monster Infos are sometimes outside the screen (if they don't show at all even if you open the config menu this is probably your issue)
+- Sometimes you can be in drag and drop mode without having the settings open
+- Road detection doesn't work all the time (use road override if road in general works for you)
+
 ## TODO
 
 - Choose which Player to load data from
