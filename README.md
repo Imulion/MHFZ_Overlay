@@ -19,6 +19,7 @@ Top Left are Buttons for Config, Restart, Close
 - Monster Infos are sometimes outside the screen (if they don't show at all even if you open the config menu this is probably your issue)
 - Sometimes you can be in drag and drop mode without having the settings open
 - Road detection doesn't work all the time (use road override if road in general works for you)
+- Save button is cut off in the settings menu
 
 ## TODO
 
@@ -29,3 +30,4 @@ Top Left are Buttons for Config, Restart, Close
 - Fix Max HP for Road
 - Better Detection for if the Player is in Road so the Road Override is not necesarry anymore
 - Discord Rich Pressence
+- Add shortcut for saving
