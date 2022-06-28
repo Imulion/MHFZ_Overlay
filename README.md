@@ -31,3 +31,4 @@ Top Left are Buttons for Config, Restart, Close
 - Better Detection for if the Player is in Road so the Road Override is not necesarry anymore
 - Discord Rich Pressence
 - Add shortcut for saving
+- Allow lock on to be used to select monsters
