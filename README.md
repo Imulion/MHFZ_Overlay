@@ -1,6 +1,9 @@
 ## MHFZ_Overlay
 
-This project is Directly Inspired from the Overlay created by https://github.com/suzaku01
+This project is Directly Inspired from the Overlay created by [suzaku01](https://github.com/suzaku01).
+
+**Currently the Projekt is on hold you can find different versions [here](https://github.com/Imulion/MHFZ_Overlay/network/members).**
+
 
 
 ## Usage
